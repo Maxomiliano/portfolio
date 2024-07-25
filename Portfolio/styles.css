@@ -50,10 +50,7 @@ nav ul li a {
 }
 
 .social-icons a {
+    color: white;
     margin-left: 10px;
-}
-
-.social-icons img {
-    width: 24px;
-    height: 24px;
+    text-decoration: none;
 }
