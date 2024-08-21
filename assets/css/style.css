@@ -279,7 +279,7 @@ html, body {
 }
 /* site-section */
 .site-section {
-   padding-top: 120px;
+   padding-top: 50px;
 }
 
 .site-section h2,
@@ -572,7 +572,7 @@ html, body {
 
 /* Section: Form*/
 .section-form {
-    padding-bottom: 120px;
+    padding-bottom: 0px;
 }
 
 .section-form .btn {
@@ -583,9 +583,9 @@ html, body {
 --------------------------------------*/
 .contact {
     background: #ffffff;
-    padding: 50px 0 100px;
+    padding: 100px 0 0px;
 }
-.single-contact-box {padding-top: 100px;}
+.single-contact-box {padding-top: 0px;}
 .contact-form  .form-group {
     margin-bottom: 20px;
     
@@ -667,7 +667,7 @@ html, body {
 .single-contact-add-info p {
     color:  #999fb3;
     font-size:  16px;
-    margin-top:  18px;
+    margin-top:  6px;
 }
 .single-contact-add-info {
     margin-bottom:  26px;
