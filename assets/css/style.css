@@ -211,7 +211,7 @@ html, body {
 /* HERO
 ================================================== */
 .hero { 
-    background: url(../img/hero.jpg) no-repeat center / cover; 
+    background: url(../img/back-ground.jpg) no-repeat center / cover; 
     height: 100%;
     width: 100%;
     min-height: 700px;
@@ -265,7 +265,7 @@ html, body {
 .img-about-me {
     max-width: 100%;
     height: auto;
-    border-radius: 50%;
+    border-radius: 1%;
 }
 
 /* SITEMAIN
@@ -336,7 +336,7 @@ html, body {
     margin-bottom: 37px;
 }
 .progress-bar {
-   background: #b636ff;
+   background: #2a802a;
     border-radius: 3px;
    -webkit-transition: width 1.5s ease-in-out;
    -ms-transition: width 1.5s ease-in-out;
