@@ -44,6 +44,7 @@
 .icon-linkedin:before { content: '\f0e1'; } /* '' */
 .icon-linkedin:before { content: '\f0e1'; } /* '' */
 .icon-up:before { content: '\f176'; } /* '' */
+.icon-github:before { content: '\f09b'; } /* '' */
 
 /* CUSTOM RESETS
 ================================================== */
@@ -700,7 +701,7 @@ html, body {
 /* FOOTER
 ================================================== */
 .site-footer {
-    position: fixed;
+    position: center;
     bottom: 0;
     padding: 30px 0;
     width: 100%;
@@ -741,6 +742,31 @@ a.facebook-bg:hover{color: #3b5998;}
 a.gplus-bg:hover{color: #007bb5;} 
 a.linkedin-bg:hover {color: #dd4b39;}
 a.icon-up-bg:hover {color: #212121;}
+
+.github{
+    font-size: 24px; /* Tamaño uniforme para todos los íconos */
+    color: #fff; /* Color del ícono */
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    border-radius: 50%;
+    display: inline-block;
+    text-align: center;
+    margin-right: 10px; /* Espacio entre íconos */
+    background-color: #333; /* Color de fondo por defecto */
+}
+.linkedin{
+    font-size: 24px; /* Tamaño uniforme para todos los íconos */
+    color: #fff; /* Color del ícono */
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    border-radius: 50%;
+    display: inline-block;
+    text-align: center;
+    margin-right: 10px; /* Espacio entre íconos */
+    background-color: #333; /* Color de fondo por defecto */
+}
 
 .copyright {
     margin-bottom: 0;
