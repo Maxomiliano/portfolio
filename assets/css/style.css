@@ -651,13 +651,14 @@ html, body {
 /* contact-adress */
 .contact-add-head h3 {
     font-size:  24px;
+    font-weight:  600;
     color:  #3c4258;
 }
 .contact-add-head p {
     font-size:  16px;
     text-transform: capitalize;
     color:  #636a82;
-    font-weight:  300;
+    font-weight:  600;
     margin-top:  6px;
 }
 /* contact-adress */
@@ -666,11 +667,12 @@ html, body {
 .contact-add-info { margin: 42px 0 52px;}
 .single-contact-add-info h3 {
     color:  #636a82;
-    font-weight:  500;
+    font-weight:  600;
     font-size:  24px;
+    text-align: center;
 }
 .single-contact-add-info p {
-    color:  #999fb3;
+    color:  #8b90a3;
     font-size:  16px;
     margin-top:  6px;
 }
