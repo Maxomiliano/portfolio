@@ -279,7 +279,7 @@ html, body {
 }
 /* site-section */
 .site-section {
-   padding-top: 50px;
+   padding-top: 60px;
    background-color: #c9d6c9;
 }
 
@@ -305,7 +305,10 @@ html, body {
     
 }
 .skill-content{padding: 50px 0 80px;}
-.single-skill-content{padding-top: 100px;}
+.single-skill-content{
+    padding-top: 60px;
+    padding-bottom: 40px; ;
+}
 .section-heading h2 {
     font-size: 24px;
     font-weight: 600;
