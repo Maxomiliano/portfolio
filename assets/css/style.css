@@ -468,13 +468,14 @@ html, body {
 .portfolio-item-info h4 {
     margin: 0 0 20px;
     font-weight: 700;
+    font-size: 20px;
     color: #fff;
 }
 
 .portfolio-item-info a {
     padding: 6px 7px 4px;
-    font-size: 12px;
-    border: 1px solid #fff;
+    font-size: 20px;
+    border: 2px solid #fff;
     border-radius: 50px;
     color: #fff;
     transition: color 0.25s ease-in-out, background-color 0.25s ease-in-out;
